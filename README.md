@@ -17,6 +17,7 @@ Welcome to my Weather App! This application allows you to check the weather for 
 
 
 ## Screenshots 🖼️
+![weatherApp](https://github.com/DarboeDev/Weather-App/assets/125799918/fe52f015-174d-411a-bc6b-e860d65fd546)
 
 ## Contributing 🤝
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
@@ -29,4 +30,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Acknowledgments 👏
 Thanks to OpenWeatherMap for providing weather data.
-Feel free to customize this README to include additional details or sections specific to your project.
